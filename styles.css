@@ -1,0 +1,116 @@
+body {
+    background-color: turquoise;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: beige;
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    font-size: 300%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.disp {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+}
+
+.disp2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+}
+
+.disp3 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+}
+
+.upg {
+    cursor: pointer;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    font-size: 200%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spendall2 {
+    cursor: pointer;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    font-size: 200%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spendall {
+    cursor: pointer;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    font-size: 200%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upg2 {
+    cursor: pointer;
+    background-color: beige;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    font-size: 200%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.save {
+    cursor: pointer;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    border-radius: 50%;
+    background-color: lime;
+}
+
+.load {
+    cursor: pointer;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: Impact;
+    border-radius: 50%;
+    background-color: lime;
+}
